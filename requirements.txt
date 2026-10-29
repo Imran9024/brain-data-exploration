@@ -1,0 +1,2 @@
+# Current browser prototype has no Python runtime dependencies.
+# Python standard library is sufficient for the CSV format test.
